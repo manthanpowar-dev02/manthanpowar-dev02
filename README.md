@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Manthan Powar 👋
 
-<!--
-**manthanpowar-dev02/manthanpowar-dev02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student @ DY Patil International University (2027)
 
-Here are some ideas to get you started:
+💼 Full Stack .NET Developer | Python & AWS Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Mumbai, India | Available for Freelance Projects
+
+---
+
+## 🚀 Projects
+
+### 🏫 Student Management System
+ASP.NET MVC project with authentication and SQL Server integration.
+
+### 🤖 AI Footprint Risk Tool
+Python ML project with 85%+ accuracy.
+
+### ☁️ AWS Data Engineering
+AWS S3 + Glue + Lambda ETL pipelines with automation.
+
+### 🔒 Steganography Toolkit
+Image security and detection project.
+
+---
+
+## 🛠 Tech Stack
+
+ASP.NET • C# • Python • SQL Server • AWS • JavaScript • HTML/CSS • Machine Learning
+
+---
+
+📬 Contact: your-new-gmail@gmail.com
