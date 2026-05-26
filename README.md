@@ -4,7 +4,7 @@
 
 💼 Full Stack .NET Developer | Python & AWS Engineer
 
-📍 Mumbai, India | Available for Freelance Projects
+📍 Kolhapur, India | Available for Freelance Projects
 
 ---
 
