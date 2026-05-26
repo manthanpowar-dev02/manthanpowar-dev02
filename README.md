@@ -30,4 +30,4 @@ ASP.NET • C# • Python • SQL Server • AWS • JavaScript • HTML/CSS •
 
 ---
 
-📬 Contact: your-new-gmail@gmail.com
+📬 Contact: manthanpowar.dev@gmail.com
